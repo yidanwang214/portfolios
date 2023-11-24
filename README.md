@@ -1,2 +1,2 @@
 # portfolios
-This file is my portfolio showcase
+This file showcases my portfolio.
